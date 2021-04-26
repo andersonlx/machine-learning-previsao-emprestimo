@@ -14,7 +14,7 @@
 python srv.py
 </code></pre>
 <p class="has-line-data" data-line-start="17" data-line-end="18">💻 Acesse no navegador o seguinte endereço:</p>
-<pre><code class="has-line-data" data-line-start="19" data-line-end="21" class="language-sh">localost:<span class="hljs-number">5000</span>
+<pre><code class="has-line-data" data-line-start="19" data-line-end="21" class="language-sh">localhost:<span class="hljs-number">5000</span>
 </code></pre>
 <h2 class="code-line" data-line-start=22 data-line-end=23 ><a id="Developer__22"></a>Developer 👨‍💻</h2>
 <p class="has-line-data" data-line-start="24" data-line-end="25">🍕 ☕ <a href="https://www.linkedin.com/in/andersonxavier/">Anderson</a>   -  <em>Initial work</em></p>
