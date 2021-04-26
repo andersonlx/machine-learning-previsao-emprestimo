@@ -1,5 +1,5 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Anlise_de_Crdito_Machine_Learning__0"></a>Análise de Crédito Machine Learning 💹</h1>
-<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_Pyhton_para_analise_de_crdito__1"></a><em>Pyhton para analise de crédito</em></h2>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Anlise_de_Crdito_Machine_Learning__0"></a>Análise de Emprestimo Machine Learning 💹</h1>
+<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_Pyhton_para_analise_de_crdito__1"></a><em>Pyhton para analise de Emprestimo</em></h2>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Inicio ao fim de como criar uma Web API simples para disponibilizar o resultado do modelo e coloca-ló em produção.</p>
 <h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="Instalao__3"></a>Instalação 💻</h2>
 <p class="has-line-data" data-line-start="4" data-line-end="8">O projeto requer para rodar:<br>
@@ -11,7 +11,7 @@
 ✔ Abra o arquivo  <strong>(02.persistencia-objetos-disco.ipynb)</strong> e execute todos os steps do .IPYNB.<br>
 ✔ Após executar os passos acima, abra a pasta API e execute o <strong>comando abaixo.</strong></p>
 <pre><code class="has-line-data" data-line-start="13" data-line-end="16" class="language-sh"><span class="hljs-built_in">cd</span> api
-python str.py
+python srv.py
 </code></pre>
 <p class="has-line-data" data-line-start="17" data-line-end="18">💻 Acesse no navegador o seguinte endereço:</p>
 <pre><code class="has-line-data" data-line-start="19" data-line-end="21" class="language-sh">localost:<span class="hljs-number">5000</span>
